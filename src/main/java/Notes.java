@@ -12,7 +12,7 @@ public class Notes {
        return this.list;
    }
 
-    public void setList() {
-
+    public void setList(ArrayList notesArray) {
+       this.list = notesArray;
     }
 }
