@@ -1,4 +1,3 @@
-package notes.model;
 import java.util.ArrayList;
 
 public class Notes {
@@ -13,4 +12,7 @@ public class Notes {
        return this.list;
    }
 
+    public void setList() {
+
+    }
 }
