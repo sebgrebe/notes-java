@@ -1,2 +1,5 @@
 notes/Application.class
-notes/NotesController.class
+notes/model/NoteTest.class
+notes/repository/NotesRepository.class
+notes/controller/NotesController.class
+notes/model/Note.class
